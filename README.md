@@ -1,2 +1,2 @@
 # Konektilo-Project
-workstudent Projcet
+workstudent Project
