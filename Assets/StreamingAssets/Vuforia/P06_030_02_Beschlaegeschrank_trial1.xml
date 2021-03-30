@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="P06_030_02_Beschlaegeschrank_trial1" motionHint="static"/>
+
+</Tracking>
+
+<Assembly name="P06_030_02_Beschlaegeschrank_trial1s_assembly" assemblyId="62fbc9f86ccd45c8be7997b1467d131f">
+<Part name="P06_030_02_Beschlaegeschrank_trial1" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-2.12391 1.3781 2.62967" rotation="AD: 0.9999999999862067 0.00291107761198251 0.0026695306705664056 85.0436" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

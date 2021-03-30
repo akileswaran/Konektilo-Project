@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="20.0" toolVersion="9.0.12">
+<ModelTarget name="P06_030_02_Beschlaegeschrank_trial1 v2" targetId="b0aed74676b448a887dd01f29783cebd" version="11.1" toolVersion="9.0.12" bbox="-2.198000 -0.090250 -0.401000 0.000000 2.809750 0.029000" previewImage="b0aed74676b448a887dd01f29783cebd_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="P06_030_02_Beschlaegeschrank_trial1 v2s_assembly" assemblyId="6c225af7614b4290be6190741de5350c">
+<Part name="P06_030_02_Beschlaegeschrank_trial1 v2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-1.15103 1.29554 2.12135" rotation="AD: 0.9999999999995983 -0.00012190104326476289 -0.007352835571351345 178.1" image="P06_030_02_Beschlaegeschrank_trial1 v2_viewpoint_0001.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
